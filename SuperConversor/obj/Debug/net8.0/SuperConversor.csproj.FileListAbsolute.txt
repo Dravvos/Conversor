@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Debug\net8.0\SuperConversor.exe
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Debug\net8.0\SuperConversor.deps.json
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Debug\net8.0\SuperConversor.runtimeconfig.json
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Debug\net8.0\SuperConversor.dll
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Debug\net8.0\SuperConversor.pdb
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\SuperConversor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\SuperConversor.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\SuperConversor.AssemblyInfo.cs
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\SuperConversor.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\SuperConversor.dll
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\refint\SuperConversor.dll
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\SuperConversor.pdb
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\SuperConversor.genruntimeconfig.cache
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\obj\Debug\net8.0\ref\SuperConversor.dll

@@ -1,0 +1,5 @@
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Release\net8.0\app.publish\SuperConversor.exe
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Release\net8.0\app.publish\SuperConversor.dll
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Release\net8.0\app.publish\SuperConversor.deps.json
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Release\net8.0\app.publish\SuperConversor.runtimeconfig.json
+D:\Microsoft Visual Studio\source\repos\SuperConversor\SuperConversor\bin\Release\net8.0\app.publish\SuperConversor.pdb
